@@ -1,0 +1,272 @@
+.home-desktop {
+    padding:0 80px;
+}
+
+.home-mobile {
+    padding:0 12px;
+}
+
+.home-default {
+    padding:0 32px;
+}
+
+.top-section {
+    max-width:685px;
+}
+
+.top-section-h1 {
+    margin-top: 2px;
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 56px;
+}
+
+.btn1 {
+    font-family: Montserrat,sans-serif;
+    border-style: none;
+    padding: 0;
+    width: 156px;
+    height: 39px;
+    border-radius: 2px;
+    font-size: 16px;
+    color: #d4b5ff;
+    font-weight: 600;
+    background: #6d1eda;
+    cursor: pointer;
+}
+
+.btn2 {
+    cursor: pointer;
+    font-family: Montserrat,sans-serif;
+    border: 1px solid #7525e5;
+    padding: 0;
+    width: 156px;
+    height: 39px;
+    border-radius: 2px;
+    font-size: 16px;
+    color: #fcfcfc;
+    font-weight: 600;
+    margin-left: 20px;
+    background: transparent;
+}
+
+.top-section-p {
+    text-indent: 6px;
+    max-width: 610px;
+}
+
+.btn-outline {
+    margin-left:20px;
+}
+
+.dials-image {
+    margin-top: 142px !important;
+    width: 276px;
+}
+
+.infinite-image {
+    height:416px;
+}
+
+.economicModel-image {
+    margin-left: -12px;
+    width: 100vw;
+}
+h3 {
+    font-size: 20px;
+    font-weight: 900;
+}
+.economical-hybrid {
+    padding: 0 18px;
+    margin: 0;
+    margin-left: -12px;
+    width: calc(100%);
+}
+
+.tokenomics-desktop {
+    justify-content:center;
+}
+
+.top-section-header {
+    font-weight: 900;
+    font-size: 52px;
+    line-height: 56px;
+}
+.cursor {
+    cursor: pointer;
+}
+
+.desktop-right {
+    padding-right: 2px;
+    position: relative;
+}
+
+.desktop-top-right {
+    position: absolute;
+    top: 68px;
+    right: 30px
+}
+
+.desktop-grid-iamge {
+    height: 28.8px;
+    margin-bottom: 12px;
+}
+
+.gridItem-h4 {
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.gridItem-p {
+    line-height: 24px;
+    margin-top: 8px;
+    width: 224px;
+}
+
+.learn-about {
+    align-items: flex-end;
+    display: flex;
+    flex-direction: column;
+    margin-top: 130px;
+    max-width: 1122px;
+    text-transform: uppercase;
+}
+
+.learn {
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 900;
+}
+
+.learn-div {
+    background: #6d1eda;
+    height: 14.4px; 
+    margin-bottom:16px;
+    width: 17px; 
+}
+
+.charts-image {
+    height: auto;
+    max-width: 100%;
+    margin-top: 18px;
+    width: 930px;
+}
+
+.top-left0 {
+    left: 0;
+    top: 100%;
+}
+
+.left17 {
+    left: 17px;
+}
+
+.border-right {
+    border-right: 10px solid #555;
+}
+
+.border-left {
+    border-left: 10px solid #555;
+}
+
+.top100 {
+    top: 100%;
+}
+
+.uxx-info {
+    background: #040404;
+    left: 0;
+    margin-top: 158px;
+    position: absolute;
+    width:calc(100vw - 8px);
+}
+
+.uxx-div {
+    background: #6d1eda;
+    height: 14.4px; 
+    margin-bottom:12px;
+    width: 17px; 
+}
+
+.uxx-h2 {
+    font-size: 32px;
+    line-height:37px;
+    max-width: 500px;
+    font-weight: 900;
+}
+
+.uxx-h2-div {
+    max-width: min(550px, 50%);
+    margin-top: 40px;
+    max-height: 310px;
+    overflow: auto;
+    padding-right: 10px;
+}
+
+.uxx-p-bold {
+    font-weight: bold;
+    line-height: 32px;
+}
+
+.uxx-p-top30 {
+    line-height: 32px;
+    margin-top: 30px;
+}
+
+.uxx-p-top34 {
+    line-height: 32px;
+    margin-top: 34px;
+}
+
+.uxx-info-image {
+    bottom: 76px;
+    max-width: 50%;
+    overflow: hidden;
+    position: absolute;
+    right: 0px;
+}
+
+.stay-div {
+    background: radial-gradient(#393939 0%, #040404 100%);
+    left:0;
+    margin-top:858px;
+    position:absolute;
+    padding-bottom:80px;
+    width:calc(100vw - 8px);
+    z-index:-1;
+}
+
+.stay-flex {
+    background: black;
+    border-radius: 1px;
+    display: flex; 
+    height: 543px;
+    max-width: min(1084px, 95vw);
+    margin: 0 auto;
+    margin-top: 96px;
+}
+
+.stay-h3 {
+    font-size: 33px;
+    font-weight: 900;
+}
+
+.stay-margin-top {
+    height: 52px;
+    margin-top: 77px;
+    width: 226px;
+    background: #6d1eda;
+    color: #d4b5ff;
+    font-weight: 600;
+    border-radius: 2px;
+    border-style: none;
+}
+
+.stay-flex-max {
+    max-width: 50%;
+}
+
+.right-0 {
+    right: 0;
+}
